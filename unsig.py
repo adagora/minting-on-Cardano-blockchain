@@ -5,13 +5,13 @@ from PIL import Image
 dim = 4096
 
 #replace the content inside {} with your unsig's properties
-unsig = {'index': 0,
-        'num_props': 0,
+unsig = {'index': 10007,
+        'num_props': 5,
         'properties': {
-            'multipliers'   : [],
-            'colors'        : [],
-            'distributions' : [],
-            'rotations'     : []}}
+            'multipliers'   : [1,1,1,1,3],
+            'colors'        : ["Blue", "Green", "Green","Blue", "Red"],
+            'distributions' : ["CDF", "CDF", "CDF", "CDF", "CDF"],
+            'rotations'     : [60, 0, 0, 0, 270 ]}}
 
 def norm(x , mean , std):
     p = (np.pi*std) * np.exp(-0.5*((x-mean)/std)**2)
