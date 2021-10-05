@@ -1,0 +1,14 @@
+{
+    "721": {
+        "fca51ac86e3f68502ea80602d02476ea2479365a9c0390da910b32ad": {
+            "SilverCoin": {
+                "name": "Silver Coin",
+                "image": "ipfs://QmU6bdcPzQPBTWMrsme3TNf6HKFCpcYYtQ7pNkMcxKyZLo"
+            },
+            "GoldCoin": {
+                "name": "Gold Coin",
+                "image": "ipfs://QmXZkqW3fopSbs5165okT4PEfr8yFwT1F5ARdPHQ19SKxx"
+            }
+        }
+    }
+}

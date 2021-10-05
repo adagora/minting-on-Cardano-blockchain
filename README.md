@@ -4,7 +4,7 @@
 - https://blockfrost.io/
 
 # Minting 
-To mint token or NFT follow by instruction included in doc folder (inside minting folder), name: "Minting Tokens & NFTs on Cardano". You must follow by the standards and take care about policy.
+To mint token or NFT follow by instruction included in doc folder, name: "Minting Tokens & NFTs on Cardano". You must follow by the standards and take care about policy.
 
 # Unsig reconstruction
 ## The code is extracted from transaction metadata, you can find that data on blockchain explore: https://cardanoscan.io/transaction/e4a90da18935e73f7fd6ffaa688b35b011a1a8a710b47bdb5d7103a05afc0197?tab=metadata
