@@ -6,8 +6,13 @@
 # Minting 
 To mint token or NFT follow by instruction included in doc folder, name: "Minting Tokens & NFTs on Cardano". You must follow by the standards and take care about policy.
 
+<img src="https://github.com/adagora/unsig-reconstruction/blob/master/doc/coin-silver.png" width=200><img src="https://github.com/adagora/unsig-reconstruction/blob/master/doc/coin-gold.png" width=200>
+
+
 # Unsig reconstruction
-## The code is extracted from transaction metadata, you can find that data on blockchain explore: https://cardanoscan.io/transaction/e4a90da18935e73f7fd6ffaa688b35b011a1a8a710b47bdb5d7103a05afc0197?tab=metadata
+<img src="https://github.com/adagora/unsig-reconstruction/blob/master/unsig_reconstruction/unsig_10003.png" width=200>
+
+## The initial code is extracted from transaction metadata, the generated images are personalized, you can find that data on blockchain explore: https://cardanoscan.io/transaction/e4a90da18935e73f7fd6ffaa688b35b011a1a8a710b47bdb5d7103a05afc0197?tab=metadata
 
 ## Metadata Standard: 
 https://cips.cardano.org/cips/cip25/  
