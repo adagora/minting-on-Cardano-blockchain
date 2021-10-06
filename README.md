@@ -2,6 +2,7 @@
 - you need cardano node: https://developers.cardano.org/docs/get-started/installing-cardano-node/
 - or daedalus wallet, wallet will behave like fully sync node: https://www.youtube.com/watch?v=gfHMpDW6W7w&list=LL8YpCLynnGE3Pq2etvxwZYA
 - https://blockfrost.io/
+- Result: https://pool.pm/addr1vx5uhcxr6cmgd7zas8d2c0450tehfljynru7jsjjevyp9hcnmdtee
 
 # Minting 
 To mint token or NFT follow by instruction included in doc folder, name: "Minting Tokens & NFTs on Cardano". You must follow by the standards and take care about policy.
